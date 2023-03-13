@@ -1,13 +1,15 @@
 public class Jogo
 {
      
-            /*bool playAgain = true;
+            /*
+            bool playAgain = true;
             int min = 1;
             int max = 100;
             int tentativa;
             int number;
             int tentativas;
-            string response;*/
+            string response;
+            */
 
             public bool playAgain { get; set; }
             public int min { get; set; }    
