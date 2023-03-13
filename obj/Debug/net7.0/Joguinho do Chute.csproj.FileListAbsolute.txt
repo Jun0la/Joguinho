@@ -1,0 +1,15 @@
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\bin\Debug\net7.0\Joguinho do Chute.exe
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\bin\Debug\net7.0\Joguinho do Chute.deps.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\bin\Debug\net7.0\Joguinho do Chute.runtimeconfig.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\bin\Debug\net7.0\Joguinho do Chute.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\bin\Debug\net7.0\Joguinho do Chute.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.csproj.AssemblyReference.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.AssemblyInfoInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.AssemblyInfo.cs
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.csproj.CoreCompileInputs.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\refint\Joguinho do Chute.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.pdb
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\Joguinho do Chute.genruntimeconfig.cache
+C:\Users\ju-sh\OneDrive\Área de Trabalho\Joguinho do Chute\obj\Debug\net7.0\ref\Joguinho do Chute.dll
